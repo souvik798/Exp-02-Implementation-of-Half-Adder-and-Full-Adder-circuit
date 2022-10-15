@@ -64,25 +64,30 @@ endmodule
 ### Output:
 
 ### Logic symbol & Truthtable:
-Half adder:
 
+# Half adder:
 ![output](1.png)
 
-Full adder:
+# Full adder:
 ![output](2.png)
 
 ## RTL realization:
-Half adder:
+
+
+# Half adder:
 ![output](3.png)
 
-Full adder:
+#Full adder:
+
 ![output](4.png)
 ### TIMING DIAGRAM:
 
-Half adder:
+# Half adder:
+
 ![output](5.png)
 
-Full adder:
+# Full adder:
+
 ![output](6.png)
 
 
